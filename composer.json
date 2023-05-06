@@ -15,7 +15,7 @@
         "tymon/jwt-auth": "1.0.*"
     },
     "require-dev": {
-        "facade/ignition": "2.0.5",
+        "facade/ignition": "1.16.15",
         "fzaninotto/faker": "^1.4",
         "mockery/mockery": "^1.0",
         "nunomaduro/collision": "^3.0",
